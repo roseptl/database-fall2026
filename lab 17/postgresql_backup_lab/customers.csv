@@ -1,0 +1,4 @@
+customer_id;name;email
+1;First Customer;first@example.com
+2;John Doe;john@email.com
+3;Alice;alice@email.com
